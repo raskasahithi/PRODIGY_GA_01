@@ -36,7 +36,7 @@ Welcome to the GPT-2 Text Generation project! This repository contains code for 
     uvicorn app:app --reload
     ```
 
-5. Access the app in your browser at `http://localhost:8000`.
+5. Access the app in your browser at ` http://127.0.0.1:8000`.
 
 ## Usage
 
