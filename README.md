@@ -14,8 +14,8 @@ Welcome to the GPT-2 Text Generation project! This repository contains code for 
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/gpt2-text-gen.git
-    cd gpt2-text-gen
+    git clone https://github.com/your-username/PRODIGY_GA_01.git
+    cd PRODIGY_GA_01
     ```
 
 2. Install the required dependencies:
